@@ -4,7 +4,7 @@ Analysis of gravitational-wave modes and black hole recoil velocities using nume
 
 ## 1. Binary Black Hole Coalescence
 
-The figure illustrates the different stages of a binary black hole coalescence. The upper panel shows the amplitude of the dominant gravitational-wave mode, \(|h_{22}(t)|\), while the lower panel displays the cumulative linear momentum components, \(P_x(t)\) and \(P_y(t)\).
+The figure illustrates the different stages of a binary black hole coalescence. The upper panel shows the amplitude of the dominant gravitational-wave mode, $|h_{22}(t)|$, while the lower panel displays the cumulative linear momentum components, $P_x(t)$ and $P_y(t)$.
 
 The stages of the evolution are highlighted: junk radiation, inspiral, late inspiral/plunge, merger, and ringdown.
 
@@ -16,9 +16,9 @@ The recoil velocity is computed for six SXS simulations by integrating the gravi
 
 The maximum recoil velocity obtained is approximately
 
-\[
+$$
 v_{\mathrm{kick}}^{\max}\approx167.34\ \mathrm{km/s},
-\]
+$$
 
 corresponding to a mass ratio of \(q\approx3\).
 
