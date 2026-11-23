@@ -19,6 +19,8 @@ The radial profiles show the behavior of the evolved ADM variables near $r=M/2$,
 
 ![ADM variables near the horizon](figures/adm_variables_near_horizon.png)
 
+The large peaks indicate that the evolved variables develop increasingly sharp and divergent profiles near the horizon, signaling the breakdown of the numerical evolution.
+
 ### Crash-Time Convergence
 
 The evolution was repeated at different spatial resolutions to investigate the behavior of the numerical crash time. As the grid spacing decreases, the crash time approaches a finite value:
