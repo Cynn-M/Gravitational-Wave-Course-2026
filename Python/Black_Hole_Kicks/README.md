@@ -12,7 +12,7 @@ The stages of the evolution are highlighted: junk radiation, inspiral, late insp
 
 ## 2. Recoil Velocity as a Function of Mass Ratio
 
-The recoil velocity is computed for six SXS simulations by integrating the gravitational-wave linear momentum flux from \(t=1000\) to the end of each waveform, excluding the initial contribution from junk radiation.
+The recoil velocity is computed for six SXS simulations by integrating the gravitational-wave linear momentum flux from $t=1000$ to the end of each waveform, excluding the initial contribution from junk radiation.
 
 The maximum recoil velocity obtained is approximately
 
@@ -20,7 +20,7 @@ $$
 v_{\mathrm{kick}}^{\max}\approx167.34\ \mathrm{km/s},
 $$
 
-corresponding to a mass ratio of \(q\approx3\).
+corresponding to a mass ratio of $q\approx3\$.
 
 ![Black hole recoil velocity versus mass ratio](figures/kick_vs_mass_ratio.png)
 
@@ -28,11 +28,11 @@ corresponding to a mass ratio of \(q\approx3\).
 
 To compare our results with González et al. (2007), we use the symmetric mass ratio,
 
-\[
+$$
 \eta=\frac{q}{(1+q)^2}.
-\]
+$$
 
-The orange star indicates the maximum recoil velocity reported by González et al. (2007): \(175.2\pm11\ \mathrm{km/s}\), at \(\eta=0.195\pm0.005\).
+The orange star indicates the maximum recoil velocity reported by González et al. (2007): $175.2\pm11\ \mathrm{km/s}$, at $\eta=0.195\pm0.005$.
 
 ![Black hole recoil versus symmetric mass ratio](figures/kick_vs_eta.png)
 
