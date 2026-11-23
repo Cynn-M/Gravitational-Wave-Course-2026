@@ -15,7 +15,7 @@ The implementation combines finite-difference methods, the fourth-order Runge–
 
 ### ADM Variables near the Horizon
 
-The radial profiles show the behavior of the evolved ADM variables near \(r=M/2\), where the numerical evolution develops a strong divergence.
+The radial profiles show the behavior of the evolved ADM variables near $r=M/2$, where the numerical evolution develops a strong divergence.
 
 ![ADM variables near the horizon](figures/adm_variables_near_horizon.png)
 
