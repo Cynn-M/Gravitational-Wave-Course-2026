@@ -26,7 +26,7 @@ The large peaks indicate that the evolved variables develop increasingly sharp a
 The evolution was repeated at different spatial resolutions to investigate the behavior of the numerical crash time. As the grid spacing decreases, the crash time approaches a finite value:
 
 $$
-t_{\mathrm{crash}}\longrightarrow \pi M.
+t_{\mathrm{crash}}\longrightarrow \pi M. 
 $$
 
 This indicates that the crash is not eliminated by refining the numerical grid, but instead approaches a finite-time limit in the chosen ADM evolution.
