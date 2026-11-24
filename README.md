@@ -1,6 +1,6 @@
 # Gravitational Wave Course — 2026
 
-Computational projects, numerical experiments, and analytical calculations developed as part of the **2026 Gravitational Waves Course** at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute).
+Computational projects, numerical experiments, and analytical calculations developed as part of the **2026 Gravitational Waves Course** at the **Max Planck Institute for Gravitational Physics (Albert Einstein Institute)**.
 
 **Course:** [2026 Gravitational Waves](https://imprs-lectures.aei.mpg.de/2026-gravitational-waves/)
 
